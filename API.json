@@ -7,6 +7,7 @@
     "bannerImage": "/servers/lsrp/banner.jpg",
     "maxPlayers": 100,
     "whitelist": true,
+    "isFeatured": true,
     "shortDescription": "ประสบการณ์บทบาทสมมติใน GTA San Andreas ที่ดีที่สุด",
     "description": "Los Santos Roleplay เป็นเซิร์ฟเวอร์บทบาทสมมติที่ให้คุณได้สัมผัสประสบการณ์การเล่นแบบเสมือนจริงในเมือง Los Santos ระบบบทบาทสมมติที่ล้ำสมัย พร้อมระบบเศรษฐกิจที่สมจริง และชุมชนผู้เล่นที่อบอุ่น",
     "rules": [
