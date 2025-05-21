@@ -1,0 +1,11 @@
+   {
+     "version": "0.1.1",
+     "notes": "อัพเดทเวอร์ชันใหม่",
+     "pub_date": "2024-03-21T12:00:00Z",
+     "platforms": {
+       "windows-x86_64": {
+         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5bys0K2hIS08vd3ZkUHBMVWV4MUhpVkIrbU12ZTIvUjdpREhENFJIU2ZoVUFBQkFBQUFBQUFBQUFBQUlBQUFBQU5XRGtaTHB5WldScE81QUhpSzlkTmV4M1V0bWgvb0MzaG9YYkVLOTdFTFJYaGF1TTBTOTNUKzFMUkdmV0VGV052bXdScUNWMHMzQTk2cXZ3STh4RDBjSlFpSEhOeXVqYzNIVXVXYXdqVjZqaTRZb1RiR1d1UXBiSkttWnZraXJ6QmFhZEJiUHVZUms9Cg==",
+         "url": "https://github.com/your-username/kplauncher/releases/download/v0.1.1/KPLauncher_0.1.1_x64-setup.exe"
+       }
+     }
+   }
