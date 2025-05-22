@@ -10,12 +10,14 @@
         {
           "fileName": "anticrasher037.asi",
           "fileMD5": "C71D7E5F7FBF97E95B2235A3123F9AF0",
-          "installedPath": "C:/GTA San Andreas/anticrasher037.asi"
+          "installedPath": "C:/GTA San Andreas/anticrasher037.asi",
+          "fileUrl": "http://127.0.0.1/anticrasher037.asi"
         },
         {
           "fileName": "AntiCrasher.ini",
           "fileMD5": "2F07E68588CA220193A152EAC61789FA",
-          "installedPath": "C:/GTA San Andreas/AntiCrasher.ini"
+          "installedPath": "C:/GTA San Andreas/AntiCrasher.ini",
+          "fileUrl": "http://127.0.0.1/AntiCrasher.ini"
         }
       ]
     },
@@ -29,7 +31,14 @@
         {
           "fileName": "d3d9.dll",
           "fileMD5": "FEDCBA0987654321FEDCBA0987654321",
-          "installedPath": "C:/GTA San Andreas/d3d9.dll"
+          "installedPath": "C:/GTA San Andreas/d3d9.dll",
+          "fileUrl": "http://127.0.0.1/d3d9.dll"
+        },
+        {
+          "fileName": "enbseries.ini",
+          "fileMD5": "ABCDEF1234567890ABCDEF1234567890",
+          "installedPath": "C:/GTA San Andreas/enbseries.ini",
+          "fileUrl": "http://127.0.0.1/enbseries.ini"
         }
       ]
     }
