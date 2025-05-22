@@ -9,6 +9,21 @@
     "isFeatured": true,
     "shortDescription": "ประสบการณ์บทบาทสมมติใน GTA San Andreas ที่ดีที่สุด",
     "description": "Los Santos Roleplay เป็นเซิร์ฟเวอร์บทบาทสมมติที่ให้คุณได้สัมผัสประสบการณ์การเล่นแบบเสมือนจริงในเมือง Los Santos ระบบบทบาทสมมติที่ล้ำสมัย พร้อมระบบเศรษฐกิจที่สมจริง และชุมชนผู้เล่นที่อบอุ่น",
+    "installableModGroups": [
+      [
+        "Anticheat",
+        {
+          "fileName": "AntiCrasher.ini",
+          "fileUrl": "http://127.0.0.1/AntiCrasher.ini",
+          "fileMD5": "2F07E68588CA220193A152EAC61789FA"
+        },
+        {
+          "fileName": "anticrasher037.asi",
+          "fileUrl": "http://127.0.0.1/anticrasher037.asi",
+          "fileMD5": "C71D7E5F7FBF97E95B2235A3123F9AF0"
+        }
+      ]
+    ],
     "rules": [
       "ห้ามใช้โปรแกรมช่วยเล่นทุกประเภท",
       "ห้ามใช้คำพูดที่ไม่เหมาะสมหรือสร้างความรำคาญ",
