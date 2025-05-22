@@ -4,7 +4,6 @@
       "name": "Anticheat",
       "description": "Server anticheat system",
       "version": "1.2.0",
-      "installedDate": "2024-03-20",
       "status": "active",
       "files": [
         {
@@ -25,7 +24,6 @@
       "name": "ENB Graphics",
       "description": "Enhanced graphics mod",
       "version": "2.0.1",
-      "installedDate": "2024-03-19",
       "status": "active",
       "files": [
         {
