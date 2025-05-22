@@ -1,0 +1,92 @@
+{
+  "installableModGroups": [
+    [
+      "Anticheat",
+      {
+        "fileName": "AntiCrasher.ini",
+        "fileUrl": "http://127.0.0.1/AntiCrasher.ini",
+        "fileMD5": "2F07E68588CA220193A152EAC61789FA"
+      },
+      {
+        "fileName": "anticrasher037.asi",
+        "fileUrl": "http://127.0.0.1/anticrasher037.asi",
+        "fileMD5": "C71D7E5F7FBF97E95B2235A3123F9AF0"
+      },
+      {
+        "fileName": "anticrasher037.ini",
+        "fileUrl": "http://127.0.0.1/anticrasher037.ini",
+        "fileMD5": "A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6"
+      }
+    ],
+    [
+      "Graphics",
+      {
+        "fileName": "ENB.asi",
+        "fileUrl": "http://127.0.0.1/ENB.asi",
+        "fileMD5": "1234567890ABCDEF1234567890ABCDEF"
+      },
+      {
+        "fileName": "d3d9.dll",
+        "fileUrl": "http://127.0.0.1/d3d9.dll",
+        "fileMD5": "FEDCBA0987654321FEDCBA0987654321"
+      },
+      {
+        "fileName": "enbseries.ini",
+        "fileUrl": "http://127.0.0.1/enbseries.ini",
+        "fileMD5": "ABCDEF1234567890ABCDEF1234567890"
+      }
+    ],
+    [
+      "Sound",
+      {
+        "fileName": "bass.dll",
+        "fileUrl": "http://127.0.0.1/bass.dll",
+        "fileMD5": "9876543210ABCDEF9876543210ABCDEF"
+      },
+      {
+        "fileName": "bass.ini",
+        "fileUrl": "http://127.0.0.1/bass.ini",
+        "fileMD5": "FEDCBA0987654321FEDCBA0987654321"
+      }
+    ],
+    [
+      "Streaming",
+      {
+        "fileName": "streaming.asi",
+        "fileUrl": "http://127.0.0.1/streaming.asi",
+        "fileMD5": "ABCDEF1234567890ABCDEF1234567890"
+      },
+      {
+        "fileName": "streaming.ini",
+        "fileUrl": "http://127.0.0.1/streaming.ini",
+        "fileMD5": "FEDCBA0987654321FEDCBA0987654321"
+      }
+    ],
+    [
+      "FPS Boost",
+      {
+        "fileName": "fpsboost.asi",
+        "fileUrl": "http://127.0.0.1/fpsboost.asi",
+        "fileMD5": "1234567890ABCDEF1234567890ABCDEF"
+      },
+      {
+        "fileName": "fpsboost.ini",
+        "fileUrl": "http://127.0.0.1/fpsboost.ini",
+        "fileMD5": "FEDCBA0987654321FEDCBA0987654321"
+      }
+    ],
+    [
+      "Custom Textures",
+      {
+        "fileName": "textures.asi",
+        "fileUrl": "http://127.0.0.1/textures.asi",
+        "fileMD5": "ABCDEF1234567890ABCDEF1234567890"
+      },
+      {
+        "fileName": "textures.ini",
+        "fileUrl": "http://127.0.0.1/textures.ini",
+        "fileMD5": "FEDCBA0987654321FEDCBA0987654321"
+      }
+    ]
+  ]
+}
