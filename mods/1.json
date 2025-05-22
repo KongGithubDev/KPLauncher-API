@@ -1,9 +1,9 @@
 {
   "mods": [
     {
-      "name": "Anticheat",
-      "description": "Server anticheat system",
-      "version": "1.2.0",
+      "name": "Anticrash",
+      "description": "Server anticrash system",
+      "version": "1.0.0",
       "status": "active",
       "files": [
         {
@@ -21,22 +21,16 @@
       ]
     },
     {
-      "name": "ENB Graphics",
-      "description": "Enhanced graphics mod",
-      "version": "2.0.1",
+      "name": "TEST MOD",
+      "description": "Test mod only!",
+      "version": "1.0.0",
       "status": "active",
       "files": [
         {
-          "fileName": "d3d9.dll",
-          "fileMD5": "FEDCBA0987654321FEDCBA0987654321",
-          "installedPath": "C:/GTA San Andreas/d3d9.dll",
-          "fileUrl": "http://127.0.0.1/d3d9.dll"
-        },
-        {
-          "fileName": "enbseries.ini",
-          "fileMD5": "ABCDEF1234567890ABCDEF1234567890",
-          "installedPath": "C:/GTA San Andreas/enbseries.ini",
-          "fileUrl": "http://127.0.0.1/enbseries.ini"
+          "fileName": "gta3.img",
+          "fileMD5": "9282E0DF8D7EEE3C4A49B44758DD694D",
+          "installedPath": "C:/GTA San Andreas/gta3.img",
+          "fileUrl": "http://127.0.0.1/gta3.img"
         }
       ]
     }
