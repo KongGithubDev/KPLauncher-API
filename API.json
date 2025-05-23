@@ -85,5 +85,92 @@
         "date": "2024-03-15"
       }
     ]
+  },
+  {
+    "id": "2",
+    "name": "Server Test",
+    "ip": "127.0.0.1:7777",
+    "thumbnail": "https://img2.pic.in.th/pic/217850016_354651759501264_3373599756491417677_n.png",
+    "bannerImage": "https://img5.pic.in.th/file/secure-sv1/475449732_1177979870996146_1813462073445493718_n.jpg",
+    "whitelist": true,
+    "isFeatured": true,
+    "shortDescription": "For test only!",
+    "description": "Los Santos Roleplay เป็นเซิร์ฟเวอร์บทบาทสมมติที่ให้คุณได้สัมผัสประสบการณ์การเล่นแบบเสมือนจริงในเมือง Los Santos ระบบบทบาทสมมติที่ล้ำสมัย พร้อมระบบเศรษฐกิจที่สมจริง และชุมชนผู้เล่นที่อบอุ่น",
+    "rules": [
+      "ห้ามใช้โปรแกรมช่วยเล่นทุกประเภท",
+      "ห้ามใช้คำพูดที่ไม่เหมาะสมหรือสร้างความรำคาญ",
+      "ต้องเล่นตามบทบาทที่สมจริง",
+      "ห้ามใช้บั๊กหรือช่องโหว่ของเกม",
+      "ต้องเคารพกฎของเซิร์ฟเวอร์และผู้ดูแล"
+    ],
+    "mods": [
+      {
+        "name": "SA-MP Roleplay System",
+        "description": "ระบบบทบาทสมมติขั้นสูง"
+      },
+      {
+        "name": "Advanced Economy",
+        "description": "ระบบเศรษฐกิจที่สมจริง"
+      },
+      {
+        "name": "Enhanced Graphics",
+        "description": "ปรับปรุงกราฟิกให้สวยงามขึ้น"
+      }
+    ],
+    "news": [
+      {
+        "title": "อัพเดทระบบเศรษฐกิจใหม่",
+        "date": "2024-03-15",
+        "content": "เพิ่มระบบธุรกิจและอาชีพใหม่ พร้อมระบบภาษีที่สมจริง"
+      },
+      {
+        "title": "เพิ่มพื้นที่ใหม่",
+        "date": "2024-03-10",
+        "content": "เพิ่มพื้นที่ Las Venturas และ San Fierro พร้อมระบบการเดินทางใหม่"
+      },
+      {
+        "title": "ปรับปรุงระบบต่อสู้",
+        "date": "2024-03-05",
+        "content": "ปรับปรุงระบบต่อสู้ให้สมจริงมากขึ้น พร้อมเพิ่มอาวุธใหม่",
+        "image": "1.jpg"
+      }
+    ],
+    "communityLinks": [
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/lsrp",
+        "description": "เข้าร่วมชุมชน Discord ของเรา"
+      },
+      {
+        "name": "Forum",
+        "url": "https://forum.lsrp.com",
+        "description": "กระดานสนทนาและประกาศต่างๆ"
+      },
+      {
+        "name": "Website",
+        "url": "https://lsrp.com",
+        "description": "เว็บไซต์หลักของเซิร์ฟเวอร์"
+      }
+    ],
+    "screenshots": [
+      {
+        "thumbnail": "/servers/lsrp/screenshots/1-thumb.jpg",
+        "fullSize": "/servers/lsrp/screenshots/1.jpg"
+      },
+      {
+        "thumbnail": "/servers/lsrp/screenshots/2-thumb.jpg",
+        "fullSize": "/servers/lsrp/screenshots/2.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "1",
+        "userId": "user1",
+        "username": "Player1",
+        "rating": 5,
+        "comment": "เซิร์ฟเวอร์ที่ดีมาก ระบบบทบาทสมมติสมจริง",
+        "date": "2024-03-15"
+      }
+    ]
   }
 ]
