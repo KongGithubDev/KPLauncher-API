@@ -3,6 +3,7 @@
     "id": "1",
     "name": "CareerCity",
     "ip": "191.96.92.99:7777",
+    "logo": "https://img5.pic.in.th/file/secure-sv1/careercity.png",
     "thumbnail": "https://img2.pic.in.th/pic/217850016_354651759501264_3373599756491417677_n.png",
     "bannerImage": "https://img5.pic.in.th/file/secure-sv1/475449732_1177979870996146_1813462073445493718_n.jpg",
     "whitelist": true,
