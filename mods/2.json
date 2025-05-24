@@ -25,20 +25,19 @@
       "description": "ENB !!!!",
       "version": "1.0.0",
       "status": "active",
+      "Enb": true,
       "files": [
         {
           "fileName": "anticrasher037enb.asi",
           "fileMD5": "C71D7E5F7FBF97E95B2235A3123F9AF0",
           "installedPath": "/",
-          "fileUrl": "http://127.0.0.1/anticrasher037.asi",
-          "fileEnb": true
+          "fileUrl": "http://127.0.0.1/anticrasher037.asi"
         },
         {
           "fileName": "AntiCrasherenb.ini",
           "fileMD5": "2F07E68588CA220193A152EAC61789FA",
           "installedPath": "/",
-          "fileUrl": "http://127.0.0.1/AntiCrasher.ini",
-          "fileEnb": true
+          "fileUrl": "http://127.0.0.1/AntiCrasher.ini"
         }
       ]
     },
