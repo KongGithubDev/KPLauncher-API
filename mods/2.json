@@ -9,13 +9,13 @@
         {
           "fileName": "anticrasher037.asi",
           "fileMD5": "C71D7E5F7FBF97E95B2235A3123F9AF0",
-          "installedPath": "anticrasher037.asi",
+          "installedPath": "/",
           "fileUrl": "http://127.0.0.1/anticrasher037.asi"
         },
         {
           "fileName": "AntiCrasher.ini",
           "fileMD5": "2F07E68588CA220193A152EAC61789FA",
-          "installedPath": "AntiCrasher.ini",
+          "installedPath": "/",
           "fileUrl": "http://127.0.0.1/AntiCrasher.ini"
         }
       ]
@@ -29,14 +29,14 @@
         {
           "fileName": "anticrasher037enb.asi",
           "fileMD5": "C71D7E5F7FBF97E95B2235A3123F9AF0",
-          "installedPath": "anticrasher037enb.asi",
+          "installedPath": "/",
           "fileUrl": "http://127.0.0.1/anticrasher037.asi",
           "fileEnb": true
         },
         {
           "fileName": "AntiCrasherenb.ini",
           "fileMD5": "2F07E68588CA220193A152EAC61789FA",
-          "installedPath": "AntiCrasherenb.ini",
+          "installedPath": "/",
           "fileUrl": "http://127.0.0.1/AntiCrasher.ini",
           "fileEnb": true
         }
@@ -51,7 +51,7 @@
         {
           "fileName": "gta3.img",
           "fileMD5": "9282E0DF8D7EEE3C4A49B44758DD694D",
-          "installedPath": "Models/gta3.img",
+          "installedPath": "/Models",
           "fileUrl": "http://127.0.0.1/gta3.img"
         }
       ]
