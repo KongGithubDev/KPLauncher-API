@@ -75,16 +75,6 @@
         "thumbnail": "/servers/lsrp/screenshots/2-thumb.jpg",
         "fullSize": "/servers/lsrp/screenshots/2.jpg"
       }
-    ],
-    "reviews": [
-      {
-        "id": "1",
-        "userId": "user1",
-        "username": "Player1",
-        "rating": 5,
-        "comment": "เซิร์ฟเวอร์ที่ดีมาก ระบบบทบาทสมมติสมจริง",
-        "date": "2024-03-15"
-      }
     ]
   },
   {
@@ -161,16 +151,6 @@
       {
         "thumbnail": "/servers/lsrp/screenshots/2-thumb.jpg",
         "fullSize": "/servers/lsrp/screenshots/2.jpg"
-      }
-    ],
-    "reviews": [
-      {
-        "id": "1",
-        "userId": "user1",
-        "username": "Player1",
-        "rating": 5,
-        "comment": "เซิร์ฟเวอร์ที่ดีมาก ระบบบทบาทสมมติสมจริง",
-        "date": "2024-03-15"
       }
     ]
   }
