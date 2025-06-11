@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "uuid": "c173f0f6-d4b9-4f96-a2a4-86be18596796",
     "name": "CareerCity",
     "ip": "191.96.92.99:7777",
     "logo": "https://img5.pic.in.th/file/secure-sv1/careercity.png",
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "id": "2",
+    "uuid": "b01e6afb-51bc-417d-bb62-57ac17887c43",
     "name": "Server Test",
     "ip": "127.0.0.1:7777",
     "thumbnail": "https://img2.pic.in.th/pic/217850016_354651759501264_3373599756491417677_n.png",
