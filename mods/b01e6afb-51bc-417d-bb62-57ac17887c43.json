@@ -13,7 +13,7 @@
           "fileUrl": "http://127.0.0.1/modloader.asi"
         },
         {
-          "fileName": "AntiCrasher.ini",
+          "fileName": "AntiCrasher.asi",
           "fileMD5": "19655D9C191E33436BFD713FC5E6D4D4",
           "installedPath": "/",
           "fileUrl": "http://127.0.0.1/MoonLoader.asi"
@@ -34,7 +34,7 @@
           "fileUrl": "http://127.0.0.1/modloader.asi"
         },
         {
-          "fileName": "AntiCrasherenb.ini",
+          "fileName": "AntiCrasherenb.asi",
           "fileMD5": "19655D9C191E33436BFD713FC5E6D4D4",
           "installedPath": "/",
           "fileUrl": "http://127.0.0.1/MoonLoader.asi"
