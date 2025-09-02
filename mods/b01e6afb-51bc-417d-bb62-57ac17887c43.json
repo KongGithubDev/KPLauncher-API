@@ -7,13 +7,13 @@
       "status": "active",
       "files": [
         {
-          "fileName": "anticrasher037enb.asi",
+          "fileName": "anticrasher037.asi",
           "fileMD5": "7BCA6C02C326AD80B51C8BA4A3AB7081",
           "installedPath": "/",
           "fileUrl": "http://127.0.0.1/modloader.asi"
         },
         {
-          "fileName": "AntiCrasherenb.ini",
+          "fileName": "AntiCrasher.ini",
           "fileMD5": "19655D9C191E33436BFD713FC5E6D4D4",
           "installedPath": "/",
           "fileUrl": "http://127.0.0.1/MoonLoader.asi"
