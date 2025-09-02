@@ -7,20 +7,20 @@
       "status": "active",
       "files": [
         {
-          "fileName": "anticrasher037.asi",
-          "fileMD5": "C71D7E5F7FBF97E95B2235A3123F9AF0",
+          "fileName": "anticrasher037enb.asi",
+          "fileMD5": "7BCA6C02C326AD80B51C8BA4A3AB7081",
           "installedPath": "/",
-          "fileUrl": "http://127.0.0.1/anticrasher037.asi"
+          "fileUrl": "http://127.0.0.1/modloader.asi"
         },
         {
-          "fileName": "AntiCrasher.ini",
-          "fileMD5": "2F07E68588CA220193A152EAC61789FA",
+          "fileName": "AntiCrasherenb.ini",
+          "fileMD5": "19655D9C191E33436BFD713FC5E6D4D4",
           "installedPath": "/",
-          "fileUrl": "http://127.0.0.1/AntiCrasher.ini"
+          "fileUrl": "http://127.0.0.1/MoonLoader.asi"
         }
       ]
     },
-{
+    {
       "name": "ENB",
       "description": "ENB !!!!",
       "version": "1.0.0",
@@ -29,15 +29,15 @@
       "files": [
         {
           "fileName": "anticrasher037enb.asi",
-          "fileMD5": "C71D7E5F7FBF97E95B2235A3123F9AF0",
+          "fileMD5": "7BCA6C02C326AD80B51C8BA4A3AB7081",
           "installedPath": "/",
-          "fileUrl": "http://127.0.0.1/anticrasher037.asi"
+          "fileUrl": "http://127.0.0.1/modloader.asi"
         },
         {
           "fileName": "AntiCrasherenb.ini",
-          "fileMD5": "2F07E68588CA220193A152EAC61789FA",
+          "fileMD5": "19655D9C191E33436BFD713FC5E6D4D4",
           "installedPath": "/",
-          "fileUrl": "http://127.0.0.1/AntiCrasher.ini"
+          "fileUrl": "http://127.0.0.1/MoonLoader.asi"
         }
       ]
     },
