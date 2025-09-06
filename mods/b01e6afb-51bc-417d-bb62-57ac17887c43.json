@@ -9,13 +9,13 @@
         {
           "fileName": "anticrasher037.asi",
           "fileMD5": "7BCA6C02C326AD80B51C8BA4A3AB7081",
-          "installedPath": "/",
+          "installedPath": "/temp",
           "fileUrl": "http://127.0.0.1/modloader.asi"
         },
         {
           "fileName": "AntiCrasher.asi",
           "fileMD5": "19655D9C191E33436BFD713FC5E6D4D4",
-          "installedPath": "/",
+          "installedPath": "/temp",
           "fileUrl": "http://127.0.0.1/MoonLoader.asi"
         }
       ]
@@ -50,7 +50,7 @@
         {
           "fileName": "gta3.img",
           "fileMD5": "9282E0DF8D7EEE3C4A49B44758DD694D",
-          "installedPath": "/Models/temp",
+          "installedPath": "/temp",
           "fileUrl": "http://127.0.0.1/gta3.img"
         }
       ]
